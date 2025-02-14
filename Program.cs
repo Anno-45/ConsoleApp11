@@ -32,7 +32,7 @@ namespace ConsoleApp11
             }
             return min; // Возвращаем минимальное число
 
-
+           
 
 
 
