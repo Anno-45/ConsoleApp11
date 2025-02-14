@@ -13,7 +13,7 @@ namespace ConsoleApp12
             Console.WriteLine("введите число: ");
             double num = Convert.ToDouble(Console.ReadLine());
 
-
+         //прр
 
         }
         static double summa(double a)
